@@ -1,3 +1,7 @@
 console.log('Change my name, change my name!')
 console.log()
 const app = 'app'
+
+const test = (test2) => {
+    console.log(test2)
+}
